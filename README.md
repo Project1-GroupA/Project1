@@ -1,21 +1,29 @@
-# Unit 8 - Project One
+Project Title:
+Car Safety Comparison between Country Manufacturers
 
-## Overview
+Description:
+Looking at the comparisons of safety reports of various vehicle manufacturers across a few key countries.
+Key Countries: USA, Germany, Japan, India
+Key Manufacturers: Tesla
 
-### Slide Shows
+Data:
+Car Safety Data (source pending, NHTSA)
+IIHS API
+NHTSA API
 
-* [Project 1](../../01-Lesson-Plans/08-Project-1/1/Slide-Shows/Project1.pptx)
+Initial Questions:
+Which countries have the safest cars?
+How do autonomous cars compare?
+Do some countries do certain vehicle types better?
+How does driver education affect crash/safety data in countries?
 
-### Lesson Plans
+Techniques and Tools:
+Python, Pandas, JSON, Matplotlib
 
-* [8.1 - Lesson Plan](../../01-Lesson-Plans/08-Project-1/1/LessonPlan.md)
-* [8.2 - Lesson Plan](../../01-Lesson-Plans/08-Project-1/2/LessonPlan.md)
-* [8.3 - Lesson Plan](../../01-Lesson-Plans/08-Project-1/3/LessonPlan.md)
-
-### Key Activities
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2018. All Rights Reserved.
+Data Shortcomings:
+Available Data
+Is there a standardized safety measurement standard? (USA vs Finland)
+Simulated vs Actual crashes comparison
+Speed Limit and infrastructure factors
+Manual vs Automatic
+Age limitations
