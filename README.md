@@ -6,10 +6,14 @@ Looking at the comparisons of safety reports of various vehicle manufacturers ac
 Key Countries: USA, Germany, Japan, India
 Key Manufacturers: Tesla
 
+Hypothesis:
+H0 = There is no difference in safety standards and results across countries.
+H1 = There is a statistically observable difference in safety standards and results across countries.
+
 Data:
 Car Safety Data (source pending, NHTSA)
-IIHS API
-NHTSA API
+IIHS API - https://api.iihs.org/
+NHTSA API - https://vpic.nhtsa.dot.gov/api/
 
 Initial Questions:
 Which countries have the safest cars?
