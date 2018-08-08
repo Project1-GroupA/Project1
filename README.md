@@ -9,6 +9,9 @@ Key Manufacturers: Tesla
 Hypothesis:
 H0 = There is no difference in safety standards and results across countries.
 H1 = There is a statistically observable difference in safety standards and results across countries.
+H2 = Germany has statistically observable better safety standards and results compared to the other studied countries.
+H3 = Japan has statistically observable better safety standards and results compared to the other studied countries.
+H4 = USA has statistically observable better safety standards and results compared to the other studied countries.
 
 Data:
 Car Safety Data (source pending, NHTSA)
