@@ -16,7 +16,8 @@ H4 = USA has statistically observable better safety standards and results compar
 Data:
 Car Safety Data (source pending, NHTSA)
 IIHS API - https://api.iihs.org/
-NHTSA API - https://vpic.nhtsa.dot.gov/api/
+NHTSA API - https://vpic.nhtsa.dot.gov/api
+https://webapi.nhtsa.gov/Default.aspx?SafetyRatings/API/5
 
 Initial Questions:
 Which countries have the safest cars?
