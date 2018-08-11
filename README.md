@@ -1,36 +1,35 @@
 Project Title:
-Car Safety Comparison between Country Manufacturers
+Car Safety in Missouri
 
 Description:
-Looking at the comparisons of safety reports of various vehicle manufacturers across a few key countries.
-Key Countries: USA, Germany, Japan, India
-Key Manufacturers: Tesla
+Looking at the comparisons of safety reports of various vehicle crash fatalities and injuries.
+Key factors: Age (Young vs. Mature), Alcohol Involvement, Speed, Motorcycle
 
 Hypothesis:
-H0 = There is no difference in safety standards and results across countries.
-H1 = There is a statistically observable difference in safety standards and results across countries.
-H2 = Germany has statistically observable better safety standards and results compared to the other studied countries.
-H3 = Japan has statistically observable better safety standards and results compared to the other studied countries.
-H4 = USA has statistically observable better safety standards and results compared to the other studied countries.
+H0 = There is no change in vehicle safety through the years.
+H1 = Vehicle safety has improved through the years.
+H2 = Vehicle safety has gotten worse through the years.
 
 Data:
-Car Safety Data (source pending, NHTSA)
-IIHS API - https://api.iihs.org/
-NHTSA API - https://vpic.nhtsa.dot.gov/api
+Car Safety Data
+Missouri Highway State Patrol
+http://www.mshp.dps.missouri.gov/MSHPWeb/SAC/crash_data_960grid.html
+Unused-
+IIHS API - https://api.iihs.org/ - did not work
+NHTSA API - https://vpic.nhtsa.dot.gov/api - little documentation
 https://webapi.nhtsa.gov/Default.aspx?SafetyRatings/API/5
 
 Initial Questions:
-Which countries have the safest cars?
+What factors make the most dangerous driver?
 How do autonomous cars compare?
-Do some countries do certain vehicle types better?
-How does driver education affect crash/safety data in countries?
+How does driver education affect crash/safety data?
 
 Techniques and Tools:
 Python, Pandas, JSON, Matplotlib
 
 Data Shortcomings:
 Available Data
-Is there a standardized safety measurement standard? (USA vs Finland)
+Is there a standardized safety measurement standard?
 Simulated vs Actual crashes comparison
 Speed Limit and infrastructure factors
 Manual vs Automatic
