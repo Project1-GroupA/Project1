@@ -1,6 +1,13 @@
 Project Title:
 Car Safety in Missouri
 
+Final Files to Look At:
+Project 1.pdf
+Analysis Folder
+
+Talking points in:
+image.png
+
 Description:
 Looking at the comparisons of safety reports of various vehicle crash fatalities and injuries.
 Key factors: Age (Young vs. Mature), Alcohol Involvement, Speed, Motorcycle
